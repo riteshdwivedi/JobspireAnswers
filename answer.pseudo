@@ -1,0 +1,5 @@
+Thought Process for answer:
+
+The solution for the question is quite basic and simple. First, I have take name as an input in variable 'name' then generate a random number between 6 an 15 with the help PHP inbuilt function 'rand()'. Lastly, printed then on screen by command 'echo'.
+
+Thank You.
